@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://instante-de-calma.vercel.app/sitemap.xml
